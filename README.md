@@ -8,7 +8,7 @@ The objective is to identify employee attrition patterns and provide insights in
 
 ## Dashboard Preview
 
-*Dashboard screenshot will be added here.*
+![HR Analytics Dashboard](dashboard-preview.png)
 
 ## Key Performance Indicators (KPIs)
 
